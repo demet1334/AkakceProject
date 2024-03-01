@@ -10,5 +10,7 @@
     <orderEntry type="library" name="seleniumhq.selenium.java" level="project" />
     <orderEntry type="library" name="slf4j.jcl.over" level="project" />
     <orderEntry type="library" name="slf4j.jdk14" level="project" />
+    <orderEntry type="library" name="slf4j.nop" level="project" />
+    <orderEntry type="library" name="seleniumhq.selenium.java1" level="project" />
   </component>
 </module>
